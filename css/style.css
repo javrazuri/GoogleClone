@@ -213,7 +213,7 @@ footer {
     padding: 15px 30px;
     border-bottom: 1px solid #212327;
     font-size: 15px;
-    color: #9aa0a6;
+    color: #E8E8E8;
     display: block;
 }
 .footer_links {
@@ -240,7 +240,7 @@ a:hover {
 }
 .about, .advertising, .business, .how, .privacy, .terms, .settings {
     text-decoration: none;
-    color: #9aa0a6;
+    color: #E8E8E8;
 }
 .footer_right {
     width: 224.6px;
